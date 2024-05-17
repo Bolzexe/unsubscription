@@ -1,0 +1,20 @@
+#titolo
+{
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 100px;
+    line-height:100px;
+    text-align: center;
+    background-color: rgb(131, 170, 94);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#titolo2
+{
+    font-size: 200%;
+    text-decoration-line: underline;
+    height:200px;
+    text-align: center;
+    background-color: coral;
+    line-height: 150px;
+}
